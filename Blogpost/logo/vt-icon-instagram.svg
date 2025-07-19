@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.174" height="39.174" viewBox="0 0 39.174 39.174">
+    <g data-name="Ellipse 35" style="stroke:#d4d9f5;stroke-width:.5px;fill:none">
+        <circle cx="19.587" cy="19.587" style="stroke:none" r="19.587"/>
+        <circle cx="19.587" cy="19.587" style="fill:none" r="19.337"/>
+    </g>
+    <g data-name="Instagram" transform="translate(9.576 9.58)">
+        <path data-name="Subtraction 10" d="M16.893 20.891H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4h12.893a4 4 0 0 1 4 4v12.89a4 4 0 0 1-4 4.001zM10.445 5.222a5.223 5.223 0 1 0 5.223 5.224 5.23 5.23 0 0 0-5.223-5.224zM16.1 2.609a1.306 1.306 0 1 0 1.307 1.307A1.308 1.308 0 0 0 16.1 2.609z" style="fill:#c4cdff"/>
+        <circle data-name="Ellipse 252" cx="3.916" cy="3.916" transform="translate(6.53 6.529)" style="fill:#c4cdff" r="3.916"/>
+    </g>
+</svg>
