@@ -66,8 +66,8 @@ project-root/
 - Create a **GitHub** account.
 - Clone this repository or initialize one in your project folder:
   ```bash
-git init
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+  git init
+  git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
 git add .
 git commit -m "Initial commit: Project structure setup"
 git push -u origin main
