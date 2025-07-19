@@ -68,11 +68,13 @@ project-root/
   ```bash
   git init
   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git add .
-
-git commit -m "Initial commit: Project structure setup"
-
-git push -u origin main
+  
+Make your first commit:
+  git add .
+  
+  git commit -m "Initial commit: Project structure setup"
+  
+  git push -u origin main
 
 
 🗃️ Database Setup
