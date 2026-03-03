@@ -1,10 +1,12 @@
 <?php
-$server = "localhost";
-$user = "root";
+$server = "db.szngjfzvznhrrsmwvbhw.supabase.co";
+$port = "5432";
+$dbname = "postgres";
+$user = "postgres";
 $pass = "";
-$dbname = "blogpostdb";
 $conn = new mysqli($server,$user,$pass,$dbname);
 if(!$conn){
 echo "error!: {$conn->connect_error}";
 }
 ?>
+
