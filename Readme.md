@@ -26,23 +26,41 @@ This project is a **simple web application** built with **PHP and MySQL**, desig
 ## 🗂️ Project Structure
 
 project-root/
+
 │
-├── index.php(i saved as blogpost.php)
+
+├── index.php(blogpost.php)
+
 ├── db.php
+
 ├── /includes
+
 │ ├── header.php
+
 │ ├── footer.php
+
 │ └── ...
+
 ├── /auth
+
 │ ├── register.php
+
 │ ├── login.php
+
 │ ├── logout.php
+
 ├── /posts
+
 │ ├── create.php
+
 │ ├── read.php
+
 │ ├── update.php
+
 │ ├── delete.php
+
 ├── README.md
+
 └── ...
 
 ---
