@@ -1,17 +1,10 @@
 <?php
-$server = "";
-$port = "";
-$dbname = "";
-$user = "";
+$server = "localhost";
+$user = "root";
 $pass = "";
-$conn = pg_connect(
-    "host=$host port=$port dbname=$dbname user=$user password=$password sslmode=require"
-);
-
-if (!$conn) {
-    die("Database connection failed.");
+$dbname = "blogpostdb";
+$conn = new mysqli($server,$user,$pass,$dbname);
+if(!$conn){
+echo "error!: {$conn->connect_error}";
 }
-
 ?>
-
-
